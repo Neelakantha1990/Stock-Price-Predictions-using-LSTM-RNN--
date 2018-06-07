@@ -2,6 +2,7 @@
 
 About the Dataset:-
 Train dataset contains  open stock prices of Google from 2012-2016
+
 Test Dataset contains stock prices of Jan 2017 i.e 20 records to predict after training the model with Train set
 
 Steps Followed :-
